@@ -1,0 +1,18 @@
+{
+	"breakfast": [{
+			"foodName": "sandwich",
+			"foodPrice": 22.22,
+			"calories": 249
+		},
+		{
+			"foodName": "bear",
+			"foodPrice": 22000.22,
+			"calories": 25100
+		},
+		{
+			"foodName": "muffin",
+			"foodPrice": 5.55,
+			"calories": 512
+		}
+	]
+}

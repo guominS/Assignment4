@@ -1,0 +1,18 @@
+{
+	"dinner": [{
+			"foodName": "Pizza",
+			"foodPrice": 19.8,
+			"calories": 2002
+		},
+		{
+			"foodName": "Steak",
+			"foodPrice": 32.45,
+			"calories": 720
+		},
+		{
+			"foodName": "Ramen",
+			"foodPrice": 14.50,
+			"calories": 600
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"lunch": [{
+			"foodName": "hamburger",
+			"foodPrice": 12.50,
+			"calories": 512
+		},
+		{
+			"foodName": "SpearFish",
+			"foodPrice": 23.33,
+			"calories": 256
+		},
+		{
+			"foodName": "Sushi",
+			"foodPrice": 5921.35,
+			"calories": 366
+		}
+	]
+}
